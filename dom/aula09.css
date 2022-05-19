@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(6, 130, 238);
+    color: white;
+    font: normal 18pt arial;
+}  
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: rgba(22, 4, 159, 0.4);
+    border-radius: 5px;
+    
+}
+
+a:hover {
+    color: rgb(85, 156, 244);
+    
+}
+

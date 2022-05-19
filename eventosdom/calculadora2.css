@@ -1,0 +1,44 @@
+#calc {
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(130, 126, 126);
+}
+
+#visor {
+    border: 1px solid black;
+    background-color: white;
+    box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.552);
+    height: 30px;
+    width: 170px;
+}
+
+#painel {
+    
+    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-left: 15px; 
+}
+
+#pecas {
+    margin-left: 6px;
+}
+
+.botoes{
+    width: 30px;
+    padding: 5px;
+    margin: 2px;
+    position: left;
+    font: 12pt arial;
+    box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.414);
+    
+}
+
+#res {
+    width: 70px;
+    font: 12pt arial;
+    box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.493);
+    
+}
+
